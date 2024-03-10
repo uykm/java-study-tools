@@ -6,7 +6,7 @@
 
 * 스터디 진행 시간 : 매주 요일 19시 ~
 
-* 스터디 자료 : "자바의 정석", [정리 블로그](https://ukym-tistory.tistory.com/category/%08Study/Study%20%3C%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D%3E), [Java의 정석 강의](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp)
+* 스터디 자료 : "자바의 정석", [멘토 블로그](https://ukym-tistory.tistory.com/category/%08Study/Study%20%3C%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D%3E), [자바의 정석 강의](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp)
 
 * 스터디 진행방식
   * 매주 멘토에게 해당 주차에 공부할 내용에 대해 간단하게 이야기 듣는 시간을 갖습니다.
