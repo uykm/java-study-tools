@@ -10,7 +10,7 @@
 * 이후 스터디 시간에 업로드된 질문에 대해 서로 답변하며 생각을 나눈다.
 
 ### 
-| [<img src="https://github.com/Changha-dev.png">](https://github.com/Changha-dev) | [<img src="https://github.com/Hong-Mu.png">](https://github.com/Hong-Mu) | [<img src="https://github.com/ej070961.png">](https://github.com/ej070961) | [<img src="https://github.com/UykM.png">](https://github.com/UykM) | [<img src="https://github.com/leeinsunny.png">](https://github.com/leeinsunny) |
+| [<img src="https://github.com/UykM.png">](https://github.com/UykM) |
 |:---:|:---:|:---:|:---:|:---:
 전창하|채홍무|이은지|신민규|이인선
 
