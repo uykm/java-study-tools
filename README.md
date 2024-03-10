@@ -10,9 +10,9 @@
 * 이후 스터디 시간에 업로드된 질문에 대해 서로 답변하며 생각을 나눈다.
 
 ### 
-| [<img src="https://github.com/UykM.png">](https://github.com/UykM) |
+| [<img src="https://github.com/UykM.png">](https://github.com/UykM) | | | | |
 |:---:|:---:|:---:|:---:|:---:
-전창하|채홍무|이은지|신민규|이인선
+신민규(멘토)| | | |
 
 <br>
 
