@@ -24,5 +24,5 @@
 #### 2024- - ()
 '''
 Chapter 01 & Chapter 02
-[Chapter 02 변수(Variable)](https://ukym-tistory.tistory.com/entry/%EB%B3%80%EC%88%98Variable)
 '''
+[Chapter 02 변수(Variable)](https://ukym-tistory.tistory.com/entry/%EB%B3%80%EC%88%98Variable)
