@@ -19,9 +19,9 @@
   * 스터디 이후 이번 주차에 해당하는 챕터의 내용을 복습하며 정리한 자료(블로그, 노션)를 깃허브(GitHub)에 공유합니다.
 
 ### 
-| [<img src="https://github.com/UykM.png">](https://github.com/UykM) | | | | |
-|:---:|:---:|:---:|:---:|:---:
-신민규(멘토)| | | |
+|[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)| |[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+신민규(멘토)|권현욱|안장혁|박단우|
 
 <br>
 
