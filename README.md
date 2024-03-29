@@ -21,7 +21,7 @@
 ### 
 |[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)|[<img src="https://github.com/xeohyun.png">](https://github.com/xeohyun)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-신민규(멘토)|권현욱|안장혁|박단우|
+신민규(멘토)|권현욱|안장혁|박단우|박서현| | | | | | | | | | | 
 
 <br>
 
