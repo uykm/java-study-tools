@@ -19,9 +19,9 @@
   * 스터디 이후 이번 주차에 해당하는 챕터의 내용을 복습하며 정리한 자료(블로그, 노션)를 깃허브(GitHub)에 공유합니다.
 
 ### 
-|[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)|[<img src="https://github.com/xeohyun.png">](https://github.com/xeohyun)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|[<img src="https://github.com/.png">](https://github.com/)|
+|[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)|[<img src="https://github.com/Anjanghyeok.png">](https://github.com/Anjanghyeok)|[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)|[<img src="https://github.com/xeohyun.png">](https://github.com/xeohyun)|[<img src="https://github.com/Majeonghun.png">](https://github.com/Majeonghun)|[<img src="https://github.com/yuji4.png">](https://github.com/yuji4)|[<img src="https://github.com/dooooyun.png">](https://github.com/dooooyun)|[<img src="https://github.com/noooonoo.png">](https://github.com/noooonoo)|[<img src="https://github.com/pepcsy.png">](https://github.com/pepcsy)|[<img src="https://github.com/loirouge414.png">](https://github.com/loirouge414)|[<img src="https://github.com/ynyejin.png">](https://github.com/ynyejin)|[<img src="https://github.com/jeonyeojun.png">](https://github.com/jeonyeojun)|[<img src="https://github.com/RaguelKS.png">](https://github.com/RaguelKS)|[<img src="https://github.com/.png">](https://github.com/)|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-신민규(멘토)|권현욱|안장혁|박단우|박서현| | | | | | | | | | | 
+신민규(멘토)|권현욱|안장혁|박단우|박서현|마정훈|정유지|이도윤|노운호|정수연|박준혁|윤예진|전여준|김민수|차재우| 
 
 <br>
 
