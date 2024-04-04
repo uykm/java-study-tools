@@ -7,16 +7,18 @@
 * 스터디 진행 시간 : 매주 목요일 19시 ~
 
 * 스터디 자료 : "자바의 정석", [멘토 블로그](https://ukym-tistory.tistory.com/category/%08Study/Study%20%3C%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D%3E), [자바의 정석 강의](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp), "김영한 강의자료 - 자바"
-
+(1) 미리 “다음주” 내용 정리
+(2) 몇명 뽑아서 정리해온 내용을 토대로 발표하면서 중간에 부족하거나 어려운 부분은 내가 설명 !
+(3) 실습
+(4) 다음주에 공부할 내용 중 중요한 부분들 내가 빠르게 찝어줄게!
 * 스터디 진행방식
-  * 매주 멘토에게 해당 주차에 공부할 내용에 대해 이야기(설명) 듣는 시간을 갖습니다. <br>
-
-  * 멘토가 설명해준 부분(챕터)까지 해당하는 내용들을 각자 정리하며 복습해옵니다 !
-  👉 매주 임의로 몇명을 뽑아 이전 주차에 공부한 것들을 "설명"하고 "질문"(+공유)하는 시간을 갖습니다. <br>
-  👉 혹은 지난주차에 배운 내용에 대해 멘토가 임의로 질문하게 될 수도 있습니다 ! <br>
-  ❗ 자신이 어떤 파트를 발표하게 되거나 어떤 질문을 받게 될지 모르니 해당 주차의 챕터에 대한 내용은 **'전부'** 공부하며 정리해야겠죠 ? <br>
-
-  * 스터디 이후 이번 주차에 해당하는 챕터의 내용을 복습하며 정리한 자료(블로그, 노션)를 깃허브(GitHub)에 공유합니다.
+  1. 스터디 이후 다음 주차에 해당하는 챕터의 내용을 복습하며 정리한 자료(블로그, 노션)를 깃허브(GitHub)에 공유합니다. <br>
+  👉 매주 임의로 몇명을 뽑아 공부한 것들을 "설명"하고 "질문"(+공유)하는 시간을 갖습니다. <br>
+  ❗ 중간에 설명이 더 필요하거나 설명이 힘든 부분은 멘토가 도와주려고 합니다! <br>
+  
+  2. 멘토가 다음주에 발표할 챕터에서 중요한 부분을 찝어주고, 문법을 빠르게 설명해줍니다 !
+  
+  3. 다음주차 챕터에 해당하는 문법을 이용하여 간단한 실습을 진행 ! (ex: 백준 알고리즘 문제)
 
 ### 
 |[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)|[<img src="https://github.com/Anjanghyeok.png">](https://github.com/Anjanghyeok)|[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)|[<img src="https://github.com/xeohyun.png">](https://github.com/xeohyun)|[<img src="https://github.com/Majeonghun.png">](https://github.com/Majeonghun)|[<img src="https://github.com/yuji4.png">](https://github.com/yuji4)|[<img src="https://github.com/dooooyun.png">](https://github.com/dooooyun)|[<img src="https://github.com/noooonoo.png">](https://github.com/noooonoo)|[<img src="https://github.com/pepcsy.png">](https://github.com/pepcsy)|[<img src="https://github.com/loirouge414.png">](https://github.com/loirouge414)|[<img src="https://github.com/ynyejin.png">](https://github.com/ynyejin)|[<img src="https://github.com/jeonyeojun.png">](https://github.com/jeonyeojun)|[<img src="https://github.com/RaguelKS.png">](https://github.com/RaguelKS)|[<img src="https://github.com/Chajaeu.png">](https://github.com/Chajaeu)|
