@@ -18,7 +18,7 @@
   
   2. 멘토가 다음주에 발표할 챕터에서 중요한 부분을 찝어주고, 문법을 빠르게 설명해줍니다 !
   
-  3. 다음주차 챕터에 해당하는 문법을 이용하여 간단한 실습을 진행 ! (ex: 백준 알고리즘 문제)
+  3. 다음주 챕터에 해당하는 문법을 이용하여 간단한 실습을 진행 ! (ex: 백준 알고리즘 문제)
 
 ### 
 |[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)|[<img src="https://github.com/Anjanghyeok.png">](https://github.com/Anjanghyeok)|[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)|[<img src="https://github.com/xeohyun.png">](https://github.com/xeohyun)|[<img src="https://github.com/Majeonghun.png">](https://github.com/Majeonghun)|[<img src="https://github.com/yuji4.png">](https://github.com/yuji4)|[<img src="https://github.com/dooooyun.png">](https://github.com/dooooyun)|[<img src="https://github.com/noooonoo.png">](https://github.com/noooonoo)|[<img src="https://github.com/pepcsy.png">](https://github.com/pepcsy)|[<img src="https://github.com/loirouge414.png">](https://github.com/loirouge414)|[<img src="https://github.com/ynyejin.png">](https://github.com/ynyejin)|[<img src="https://github.com/jeonyeojun.png">](https://github.com/jeonyeojun)|[<img src="https://github.com/RaguelKS.png">](https://github.com/RaguelKS)|[<img src="https://github.com/Chajaeu.png">](https://github.com/Chajaeu)|
