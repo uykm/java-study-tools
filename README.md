@@ -62,7 +62,7 @@ Chapter 2 연산자
 - 정유지 [[ 정 리 ]]()
 - 이도윤 [[ 정 리 ]]()
 - 노운호 [[ 정 리 ]]()
-- 정수연 [[ 정 리 ]]()
+- 정수연 [[ 정 리 ]](https://www.notion.so/ee0afdf765e346a4a34cc2e985936768?pvs=4)
 - 박준혁 [[ 정 리 ]](https://blog.naver.com/loirouge414/223427114819)
 - 윤예진 [[ 정 리 ]](https://www.notion.so/Java-2-7450f1aaa17943d1bed2347f8f0939c4)
 - 전여준 [[ 정 리 ]]()
