@@ -1,70 +1,132 @@
-# Tools - Java Study
-🐣 Spring에 입문하기 위한 발판을 열심히 쌓아봐요! 🐥
 
-### 🌔 스터디 소개 🌖
-* 스터디 기간 : 2024 3월 ~ 종강
+연산자(operator): 연산 기호 (ex: `+`, `-`)
+피연산자(operand): 연산 대상 (ex: `3`, `4`, `a`, `b`)
+연산자 종류
+산술 연산자: `+`,` -` , `*`, `/`, `%`, `<<`, `>>`, ...
+증감(증가 및 감소) 연산자: `++`, `--`
+비교 연산자: `==`, `!=`, `>`, `<`, `>=`, `<=`
+논리 연산자: `&&(AND)`, `||(OR)`, `!(NOT)`, ...
+대입 연산자: `=`, `+=`, `-=`, `*=`, `/=`, `%=`
+삼항 연산자: `? :` 
+형변환 연산자: '(변환하고자 하는 타입)'
+· instanceof연산자
 
-* 스터디 진행 시간 : 매주 목요일 19시 ~
 
-* 스터디 자료 : "자바의 정석", [멘토 블로그](https://ukym-tistory.tistory.com/category/%08Study/Study%20%3C%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%A0%95%EC%84%9D%3E), [자바의 정석 강의](https://www.youtube.com/watch?v=oJlCC1DutbA&list=PLW2UjW795-f6xWA2_MUhEVgPauhGl3xIp), "김영한 강의자료 - 자바"
+연산자의 우선순위 
+괄호 ()
+단항 연산자 (예: `++` , `--` , `!` , `~` , `new` , `(type)` )
+산술연산자 (`*` , `/` , `%` 우선,그다음에 `+` , `-` )
+Shift 연산자 ( `<<` , `>>` , `>>>` )
+비교 연산자 ( `<` , `<=` , `>` , `>=` , `instanceof` )
+등식 연산자 (`==` , `!=` )
+비트 연산자 (`&` ,`^` ,`|` ) 비트(bit) 단위로 논리 연산을 할 때 사용하는 연산자
+논리 연산자 ( `&&` , `||` )
+삼항연산자 (`? :` )
+대입 연산자 (`=` , `+=` , `-=` , `*=` , `/=` , `%=` 등등)
+ 애매하면 괄호
+단항 연산자 & 대입연산자 ( ← )
+(ex: `i++`, `a=1`)
+나머지 연산자 ( → )
+산술 변환 ?
+연산 수행 직전에 발생하는 피연산자의 자동 형변환을 말한다.
+* 산술 변환의 규칙 *
+1. 두 피연산자의 타입을 같게 일치시킨다 (보다 큰 타입으로 일치).
+2. 피연산자의 타입이 int보다 작은 타입이면 int로 변환된다.
 
-* 스터디 진행방식
-  1. 스터디 이후 다음 주차에 해당하는 챕터의 내용을 공부하며 정리한 자료(블로그, 노션)를 깃허브(GitHub)에 공유합니다. <br>
-  👉 매주 임의로 몇명을 뽑아 파트를 나눠 "발표"하는 시간을 갖습니다. <br>
-  ❗ 중간에 설명이 더 필요하거나 설명이 힘든 부분은 멘토가 도와줄거에요 ! <br>
-  
-  2. 멘토가 다음주에 발표할 챕터에서 중요한 부분을 찝어주고, 문법을 빠르게 설명해줍니다 !
-  
-  3. 다음주 챕터에 해당하는 문법을 이용하여 간단한 실습을 진행 ! (ex: 백준 알고리즘 문제)
 
-### 
-|[<img src="https://github.com/UykM.png">](https://github.com/UykM)|[<img src="https://github.com/woogie01.png">](https://github.com/woogie01)|[<img src="https://github.com/Anjanghyeok.png">](https://github.com/Anjanghyeok)|[<img src="https://github.com/Parkdanwoo.png">](https://github.com/Parkdanwoo)|[<img src="https://github.com/xeohyun.png">](https://github.com/xeohyun)|[<img src="https://github.com/Majeonghun.png">](https://github.com/Majeonghun)|[<img src="https://github.com/yuji4.png">](https://github.com/yuji4)|[<img src="https://github.com/dooooyun.png">](https://github.com/dooooyun)|[<img src="https://github.com/noooonoo.png">](https://github.com/noooonoo)|[<img src="https://github.com/pepcsy.png">](https://github.com/pepcsy)|[<img src="https://github.com/loirouge414.png">](https://github.com/loirouge414)|[<img src="https://github.com/ynyejin.png">](https://github.com/ynyejin)|[<img src="https://github.com/jeonyeojun.png">](https://github.com/jeonyeojun)|[<img src="https://github.com/RaguelKS.png">](https://github.com/RaguelKS)|[<img src="https://github.com/Chajaeu.png">](https://github.com/Chajaeu)|
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
-신민규(멘토)|권현욱|안장혁|박단우|박서현|마정훈|정유지|이도윤|노운호|정수연|박준혁|윤예진|전여준|김민수|차재우| 
 
-<br>
 
-### 🍀 스터디 정리
+`+`: 더하기
+`-`: 빼기
+`*`: 곱하기
+`/`: 나누기
+(ex: `5/2`의 결과값은 소수점이 제거된 `2`, 0으로 나누면 'ArithmeticException'이라는 예외 발생)
+`%`: 나머지
+➙ 짝수, 홀수 또는 배수 검사 등에 주로 사용하며, 나누는 수(오른쪽 피연산자)로 0은 사용 불가능하다.
+( 나누는 수에 음수를 넣어도 그냥 절대값으로 나눈 나머지를 반환한다 ! )
 
-#### 2024-03-28 (목)
-```
-객체지향이 무엇일까 ?
-```
 
-#### 2024-04-04 (목)
-```
-Chapter 0 자바를 시작하기 전에 & Chapter 1 변수
-```
-- 권현욱 [[ 정 리 ]]()
-- 안장혁 [[ 정 리 ]]()
-- 박단우 [[ 정 리 ]]()
-- 박서현 [[ 정 리 ]]()
-- 마정훈 [[ 정 리 ]]()
-- 정유지 [[ 정 리 ]]()
-- 이도윤 [[ 정 리 ]]()
-- 노운호 [[ 정 리 ]]()
-- 정수연 [[ 정 리 ]]()
-- 박준혁 [[ 정 리 ]]()
-- 윤예진 [[ 정 리 ]]()
-- 전여준 [[ 정 리 ]]()
-- 김민수 [[ 정 리 ]]()
-- 차재우 [[ 정 리 ]]()
 
-#### 2024-04-25 (목)
-```
-Chapter 2 연산자
-```
-- 권현욱 [[ 정 리 ]]()
-- 안장혁 [[ 정 리 ]]()
-- 박단우 [[ 정 리 ]]()
-- 박서현 [[ 정 리 ]]()
-- 마정훈 [[ 정 리 ]](https://blog.naver.com/akwjdgns0728/223426554841)
-- 정유지 [[ 정 리 ]](https://yuuuu.tistory.com/3)
-- 이도윤 [[ 정 리 ]]()
-- 노운호 [[ 정 리 ]]()
-- 정수연 [[ 정 리 ]](https://www.notion.so/ee0afdf765e346a4a34cc2e985936768?pvs=4)
-- 박준혁 [[ 정 리 ]](https://blog.naver.com/loirouge414/223427114819)
-- 윤예진 [[ 정 리 ]](https://www.notion.so/Java-2-7450f1aaa17943d1bed2347f8f0939c4)
-- 전여준 [[ 정 리 ]]()
-- 김민수 [[ 정 리 ]]()
-- 차재우 [[ 정 리 ]]()
+
+int타입과 int타입의 계산을 할 때, long으로 형변환(casting)을 해주지 않으면 올바른 값이 출력되지 않는다 !
+문자열 더하기
+
+
+Java는 특별하게 문자열에도 `+` 연산자를 사용 가능하다.
+➙ 두 문자열 연결, 문자열과 숫자 연결(숫자를 문자열로 변경한 다음에 서로 더한다)
+//문자열과 숫자 더하기2
+int num = 20;
+String str = "a + b = ";
+String result4 = str + num;
+System.out.println(result4); // a + b = 20
+
+
+
+
+전위(prefix) 증감 연산자 & 후위(postfix) 증감 연산자
+
+
+전위 증감 연산자: 증감 연산자가 변수 앞에 오는 경우
+➙  증감 연산이 먼저 수행된 후 나머지 연산 수행 !
+
+
+후위 증감 연산자: 증감 연산자가 변수 뒤에 오는 경우
+➙ 다른 연산이 먼저 수행된 후 증감 연산 수행 !
+
+
+
+
+ 기본형 변수(Primitive Variable)
+int number = 1;
+실제 값을 저장하며 아래와 같이 8가지가 있다.
+
+
+boolean
+char
+byte, short, int, long
+float, double
+특징은 다음과 같다.
+
+
+산술 연산이 가능함.
+null로 초기화 할 수 없음.
+
+
+참조형 변수(Reference Variable)
+Integer number = new Integer(1);
+어떤 값이 저장되어 있는 주소를 값으로 가진다. 8개의 기본형을 제외한 나머지 모든 타입
+
+
+ex> Integet, Boolean, String....
+
+
+특징은 다음과 같다.
+
+
+산술 연산 불가
+null로 초기화 할 수 있음.
+DB와 연동시 DTO 객체에 null이 필요한 경우 사용 할 수 있음
+
+
+기본형 변수는 stack에 실제 값을 저장하여 사용하며, 참조형은 마치 객체를 저장하는 것처럼 Heap에 실제 값을 저장하고 해당 주소를 stack에 저장하는 방식을 사용한다.
+
+
+따라서 해당 값들을 매개변수로 이용할 때
+
+
+기본형 매개변수는 변수의 실제 값만 가져오는 것이기에 읽기만 가능한다.
+참조형 매개변수는 변수의 값을 읽고 변경할 수 있다.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
