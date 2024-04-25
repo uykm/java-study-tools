@@ -59,7 +59,7 @@ Chapter 2 연산자
 - 박단우 [[ 정 리 ]]()
 - 박서현 [[ 정 리 ]]()
 - 마정훈 [[ 정 리 ]](https://blog.naver.com/akwjdgns0728/223426554841)
-- 정유지 [[ 정 리 ]]()
+- 정유지 [[ 정 리 ]](https://yuuuu.tistory.com/3)
 - 이도윤 [[ 정 리 ]]()
 - 노운호 [[ 정 리 ]]()
 - 정수연 [[ 정 리 ]](https://www.notion.so/ee0afdf765e346a4a34cc2e985936768?pvs=4)
