@@ -73,7 +73,7 @@ Chapter 2 연산자
 ```
 Chapter 3 조건문 & 반복문
 ```
-- 권현욱 [[ 정 리 ]]()
+- 권현욱 [[ 정 리 ]](https://hyukwon-devlog.tistory.com/entry/%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 - 안장혁 [[ 정 리 ]]()
 - 박단우 [[ 정 리 ]](https://bagdanu.tistory.com/3)
 - 박서현 [[ 정 리 ]]()
