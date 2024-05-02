@@ -79,7 +79,7 @@ Chapter 3 조건문 & 반복문
 - 박서현 [[ 정 리 ]]()
 - 마정훈 [[ 정 리 ]](https://blog.naver.com/PostView.naver?blogId=akwjdgns0728&logNo=223433886724)
 - 정유지 [[ 정 리 ]](https://yuuuu.tistory.com/4)
-- 이도윤 [[ 정 리 ]](https://www.notion.so/Tools-Java-3-801508f2af4f492e8016c17a3ba1075d)
+- 이도윤 [[ 정 리 ]]([https://www.notion.so/Tools-Java-3-801508f2af4f492e8016c17a3ba1075d](https://www.notion.so/Tools-Java-2-Operator-6e9a6be9133b41c0b422f728345ec70c))
 - 노운호 [[ 정 리 ]](https://velog.io/@todd1001/Java-study-week-3)
 - 정수연 [[ 정 리 ]]()
 - 박준혁 [[ 정 리 ]](https://blog.naver.com/loirouge414/223434242808)
