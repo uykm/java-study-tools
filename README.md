@@ -78,7 +78,7 @@ Chapter 3 조건문 & 반복문
 - 박단우 [[ 정 리 ]](https://bagdanu.tistory.com/3)
 - 박서현 [[ 정 리 ]]()
 - 마정훈 [[ 정 리 ]](https://blog.naver.com/PostView.naver?blogId=akwjdgns0728&logNo=223433886724)
-- 정유지 [[ 정 리 ]]()
+- 정유지 [[ 정 리 ]](https://yuuuu.tistory.com/4)
 - 이도윤 [[ 정 리 ]](https://www.notion.so/Tools-Java-3-801508f2af4f492e8016c17a3ba1075d)
 - 노운호 [[ 정 리 ]]()
 - 정수연 [[ 정 리 ]]()
