@@ -76,7 +76,7 @@ Chapter 3 조건문 & 반복문
 - 권현욱 [[ 정 리 ]](https://hyukwon-devlog.tistory.com/entry/%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%B0%98%EB%B3%B5%EB%AC%B8)
 - 안장혁 [[ 정 리 ]](https://saddlehyeok.tistory.com/2)
 - 박단우 [[ 정 리 ]](https://bagdanu.tistory.com/3)
-- 박서현 [[ 정 리 ]]()
+- 박서현 [[ 정 리 ]](https://xeohn-cs.tistory.com/3)
 - 마정훈 [[ 정 리 ]](https://blog.naver.com/PostView.naver?blogId=akwjdgns0728&logNo=223433886724)
 - 정유지 [[ 정 리 ]](https://yuuuu.tistory.com/4)
 - 이도윤 [[ 정 리 ]](https://www.notion.so/Tools-Java-2-Operator-6e9a6be9133b41c0b422f728345ec70c)
