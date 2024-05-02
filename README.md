@@ -57,7 +57,7 @@ Chapter 2 연산자
 - 권현욱 [[ 정 리 ]]()
 - 안장혁 [[ 정 리 O ]](https://docs.google.com/document/d/1Hr47qps8T6dhYWTIFQo-zrUNPou-Bx8Lz0fwKxxRZfQ/edit)
 - 박단우 [[ 정 리 O ]](https://bagdanu.tistory.com/2)
-- 박서현 [[ 정 리 O ]]()
+- 박서현 [[ 정 리 ]]()
 - 마정훈 [[ 정 리 O ]](https://blog.naver.com/akwjdgns0728/223426554841)
 - 정유지 [[ 정 리 O ]](https://yuuuu.tistory.com/3)
 - 이도윤 [[ 정 리 O ]](https://www.notion.so/Tools-Java-2-Operator-6e9a6be9133b41c0b422f728345ec70c)
