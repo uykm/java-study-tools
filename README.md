@@ -84,7 +84,7 @@ Chapter 3 조건문 & 반복문
 - 정수연 [[ 정 리 ]]()
 - 박준혁 [[ 정 리 O ]](https://blog.naver.com/loirouge414/223434242808)
 - 윤예진 [[ 정 리 O ]](https://proximal-coyote-913.notion.site/Java-3-990f4633c3464efa80e4894044a926d2?pvs=4)
-- 전여준 [[ 정 리 ]]()
+- 전여준 [[ 정 리 O ]](https://omniscient-amusement-5cd.notion.site/4-4673ce0688354e00bca183f751a45aa5?pvs=4)
 - 김민수 [[ 정 리 ]]()
 - 차재우 [[ 정 리 ]]()
 
