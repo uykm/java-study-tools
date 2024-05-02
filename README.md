@@ -83,7 +83,7 @@ Chapter 3 조건문 & 반복문
 - 노운호 [[ 정 리 ]]()
 - 정수연 [[ 정 리 ]]()
 - 박준혁 [[ 정 리 ]]()
-- 윤예진 [[ 정 리 ]](https://proximal-coyote-913.notion.site/Java-2-7450f1aaa17943d1bed2347f8f0939c4?pvs=73)
+- 윤예진 [[ 정 리 ]](https://proximal-coyote-913.notion.site/Java-3-990f4633c3464efa80e4894044a926d2?pvs=4)
 - 전여준 [[ 정 리 ]]()
 - 김민수 [[ 정 리 ]]()
 - 차재우 [[ 정 리 ]]()
