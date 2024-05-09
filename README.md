@@ -95,7 +95,7 @@ Chapter 4 배열
 - 권현욱 [[ 정 리 O ]](https://hyukwon-devlog.tistory.com/entry/%EB%B0%B0%EC%97%B4-Array)
 - 안장혁 [[ 정 리 ]]()
 - 박단우 [[ 정 리 ]]()
-- 박서현 [[ 정 리 ]]()
+- 박서현 [[ 정 리 O ]](https://xeohn-cs.tistory.com/4)
 - 마정훈 [[ 정 리 O ]](https://blog.naver.com/akwjdgns0728/223440809971)
 - 정유지 [[ 정 리 ]]()
 - 이도윤 [[ 정 리 ]]()
