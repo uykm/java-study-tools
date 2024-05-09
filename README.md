@@ -102,7 +102,7 @@ Chapter 4 배열
 - 노운호 [[ 정 리 ]]()
 - 정수연 [[ 정 리 ]](https://www.notion.so/7640a45b11984c6189da2e5ef5739a6d?pvs=4)
 - 박준혁 [[ 정 리 O]](https://blog.naver.com/loirouge414/223441562443)
-- 윤예진 [[ 정 리 ]]()
+- 윤예진 [[ 정 리 O ]](https://proximal-coyote-913.notion.site/Java-4-50587f32cf26436180636def64367440?pvs=4)
 - 전여준 [[ 정 리 ]]()
 - 김민수 [[ 정 리 ]]()
 - 차재우 [[ 정 리 ]]()
