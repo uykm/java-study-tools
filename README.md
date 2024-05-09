@@ -97,7 +97,7 @@ Chapter 4 배열
 - 박단우 [[ 정 리 O ]](https://bagdanu.tistory.com/4)
 - 박서현 [[ 정 리 O ]](https://xeohn-cs.tistory.com/4)
 - 마정훈 [[ 정 리 O ]](https://blog.naver.com/akwjdgns0728/223440809971)
-- 정유지 [[ 정 리 ]]()
+- 정유지 [[ 정 리 ]](https://yuuuu.tistory.com/5)
 - 이도윤 [[ 정 리 ]]()
 - 노운호 [[ 정 리 ]]()
 - 정수연 [[ 정 리 ]](https://www.notion.so/7640a45b11984c6189da2e5ef5739a6d?pvs=4)
