@@ -115,7 +115,7 @@ Chapter 5 객체지향 프로그래밍Ｉ
 - 안장혁 [[ 정 리 ]]()
 - 박단우 [[ 정 리 O ]]( https://bagdanu.tistory.com/5 )
 - 박서현 [[ 정 리 ]]()
-- 마정훈 [[ 정 리 ]]()
+- 마정훈 [[ 정 리 O ]](https://blog.naver.com/akwjdgns0728/223450447552)
 - 정유지 [[ 정 리 O ]](https://yuuuu.tistory.com/6)
 - 이도윤 [[ 정 리 ]]()
 - 노운호 [[ 정 리 ]]()
