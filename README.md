@@ -117,7 +117,7 @@ Chapter 5 객체지향 프로그래밍Ｉ
 - 박서현 [[ 정 리 ]]()
 - 마정훈 [[ 정 리 O ]](https://blog.naver.com/akwjdgns0728/223450447552)
 - 정유지 [[ 정 리 O ]](https://yuuuu.tistory.com/6)
-- 이도윤 [[ 정 리 ]]()
+- 이도윤 [[ 정 리 O ]](https://deluxe-airship-f8d.notion.site/Tools-Java-6e9a6be9133b41c0b422f728345ec70c?pvs=4)
 - 노운호 [[ 정 리 ]]()
 - 정수연 [[ 정 리 ]]()
 - 박준혁 [[ 정 리 O ]](https://blog.naver.com/loirouge414/223450300255)
