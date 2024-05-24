@@ -134,7 +134,7 @@ Chapter 6 객체지향 프로그래밍 Ⅱ
 - 안장혁 [[ 정 리 ]]()
 - 박단우 [[ 정 리 ]]()
 - 박서현 [[ 정 리 ]]()
-- 마정훈 [[ 정 리 ]]()
+- 마정훈 [[ 정 리 O ]](https://blog.naver.com/PostList.naver?blogId=akwjdgns0728&from=postList&categoryNo=6)
 - 정유지 [[ 정 리 ]]()
 - 이도윤 [[ 정 리 O ]](https://deluxe-airship-f8d.notion.site/Tools-Java-6e9a6be9133b41c0b422f728345ec70c?pvs=4)
 - 노운호 [[ 정 리 ]]()
